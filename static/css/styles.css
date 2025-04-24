@@ -1,0 +1,63 @@
+/* Primary and Secondary Colors */
+:root {
+    --primary-color: #3B7A99;
+    --secondary-color: #A4C8E1;
+    --text-color-light: #ffffff; /* For light text on dark background */
+    --text-color-dark: #333333; /* For dark text on light background */
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: var(--primary-color);
+}
+
+.navbar .nav-link {
+    color: var(--text-color-light);
+}
+
+.navbar .nav-link:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: var(--text-color-dark);
+}
+
+/* Body and Headings */
+body {
+    background-color: #f8f9fa; /* Light background for the website */
+    color: var(--text-color-dark);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+}
+
+/* Forms */
+.form-label {
+    color: var(--primary-color);
+}
+
+/* Table Styling */
+table {
+    border: 1px solid var(--primary-color);
+}
+
+th {
+    background-color: var(--primary-color);
+    color: var(--text-color-light);
+}
+
+td {
+    background-color: var(--secondary-color);
+    color: var(--text-color-dark);
+}
