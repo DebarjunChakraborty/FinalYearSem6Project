@@ -5,11 +5,15 @@ from flask import Flask, render_template, request
 import pandas as pd
 from io import BytesIO
 import base64
+import os
 
 app = Flask(__name__)
 stacking_regressor=pickle.load(open('stacking_regressor.pkl','rb'))
 rfmodel=pickle.load(open('rfmodel.pkl','rb'))
 
+model_path = os.path.join(os.path.dirname(__file__), 'models/rfmodel.pkl')
+with open(model_path, 'rb') as file:
+    model = pickle.load(file)
 
 @app.route('/')
 
