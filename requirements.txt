@@ -5,6 +5,5 @@ matplotlib
 feature-engine
 scikit-learn
 xgboost
-pickle5
-gunicorn
 Flask
+gunicorn
