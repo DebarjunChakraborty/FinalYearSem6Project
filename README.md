@@ -22,6 +22,13 @@ Built as part of the final-year BSc (Computer Science) project at **S.I.E.S Coll
 
 ---
 
+## 🌍 SDG Alignment
+
+**SDG 3: Good Health and Well-being**  
+By equipping rural and underserved communities with transparent, accessible health-insurance premium predictions, Humara Swasthya directly contributes to Universal Health Coverage and promotes preventative care.
+
+---
+
 ## 🏗️ System Architecture
 
 ### Key Modules:
@@ -107,8 +114,7 @@ Testing of the web application and ML workflows was conducted using **Selenium I
 ## 👨‍💻 Developer
 
 **Debarjun Chakraborty**  
-Bachelor of Science (Computer Science)  
-S.I.E.S College, Sion (W), Mumbai University  
+Mumbai University  
 📧 Email: debarjun14@gmail.com  
 📁 Roll No: TCS2425012
 
@@ -128,9 +134,3 @@ S.I.E.S College, Sion (W), Mumbai University
 
 GitHub Repository: [https://github.com/DebarjunChakraborty/HumaraSwasthya.git](https://github.com/DebarjunChakraborty/HumaraSwasthya.git)
 
----
-
-## 🏛️ License
-
-This project is a student submission for academic purposes under SIES College, Mumbai University.  
-For external reuse or distribution, please contact the project author for consent.
