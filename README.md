@@ -83,19 +83,6 @@ Built as part of the final-year BSc (Computer Science) project at **S.I.E.S Coll
 
 ---
 
-## 📊 Screenshots
-
-| Web Page             | Description                                 |
-|----------------------|---------------------------------------------|
-| `index.html`         | Landing page with carousel and overview     |
-| `predict.html`       | Input form for insurance prediction         |
-| `bmi.html`           | BMI calculator                              |
-| `chart.html`         | ML insights visualised in interactive plots |
-| `feedback.html`      | User feedback submission and ratings        |
-| `login.html`         | Admin login interface                       |
-
----
-
 ## 🧪 Testing Strategy
 
 Testing of the web application and ML workflows was conducted using **Selenium IDE**:
