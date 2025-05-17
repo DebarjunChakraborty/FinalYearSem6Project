@@ -1,4 +1,4 @@
-# Humara Swasthya (Our Health) 🇮🇳
+# Humara Swasthya (Our Health)
 
 > A Machine Learning-powered platform for health insurance prediction, built with a mission to empower India's rural population with transparent, accessible, and affordable healthcare insights.
 
